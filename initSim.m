@@ -21,7 +21,7 @@
 % SOFTWARE.
 %
 % The Hybrid Integrator in Simulink example is inspired by the:
-%   HyEQ Toolbox (Copyright @ Hybrid Systes Laboratory - HSL)
+%   HyEQ Toolbox (Copyright @ Hybrid Systems Laboratory - HSL)
 
 %% The script runs before Running the simulation (it is the initFnc)! %%
 
