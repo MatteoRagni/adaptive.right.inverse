@@ -84,3 +84,7 @@ r(t) := 5 cos(t/5) + cos(t + ?/3) + sin(2t/5)
 ![Figure 1](img/figure1.png)
 
 ![Figure 2](img/figure2.png)
+
+### Cite
+
+The paper is currently under review for ACC 2019. Citation instruction will be provided as soon as we receive an acceptance notification.
